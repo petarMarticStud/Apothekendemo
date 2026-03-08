@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .heart-pattern {
+        background-color: #fffafb; /* Ganz helles Rosé für professionelle Sauberkeit */
+        background-image: radial-gradient(#fda4af 1px, transparent 1px);
+        background-size: 40px 40px;
+    }
+}
