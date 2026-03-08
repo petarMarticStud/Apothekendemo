@@ -6,12 +6,11 @@ export default function Hero() {
             <div className="max-w-5xl mx-auto px-6 text-center">
                 {/* Branding-Tag für lokale Relevanz */}
                 <p className="text-rose-500 font-bold uppercase tracking-widest text-sm mb-4 drop-shadow-sm">
-                    Alles wird mit Liebe bei uns produziert
                 </p>
 
                 {/* Das zentrale Markenversprechen */}
-                <h1 className="text-5xl md:text-7xl font-extrabold text-slate-900 leading-tight mb-8">
-                    „Jede Krankheit hat ihre eigene Arznei. Unsere Arznei ist Herzlichkeit.“
+                <h1 className="text-5xl md:text-7xl font-extrabold text-rose-500 leading-tight mb-8">
+                    Alles wird mit Liebe bei uns produziert
                 </h1>
 
                 {/* Fachliche Einordnung */}
@@ -25,7 +24,7 @@ export default function Hero() {
                         to="/contact"
                         className="w-full sm:w-auto bg-slate-900 text-white px-10 py-5 rounded-2xl font-bold hover:bg-rose-500 transition-all shadow-lg hover:shadow-rose-200"
                     >
-                        Beratung anfragen
+                        Kontakt
                     </Link>
 
                     <Link
