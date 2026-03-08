@@ -6,7 +6,7 @@ export default function Hero() {
             <div className="max-w-5xl mx-auto px-6 text-center">
                 {/* Branding-Tag für lokale Relevanz */}
                 <p className="text-rose-500 font-bold uppercase tracking-widest text-sm mb-4 drop-shadow-sm">
-                    Ihre Apotheke am Maurer Hauptplatz
+                    Alles wird mit Liebe bei uns produziert
                 </p>
 
                 {/* Das zentrale Markenversprechen */}
